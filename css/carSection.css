@@ -1,0 +1,15 @@
+html{
+    height: 100%;
+}
+body{
+    margin: 0;
+    background-image: url(../assets/backgroundImage.jpg);
+    background-size:cover ;
+    background-position: center;
+    overflow: hidden;
+
+}
+.night{
+    height: 80vh;
+    width: 70vh;
+}
